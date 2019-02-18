@@ -46,12 +46,12 @@ img:hover {
   background-color: #dd4444;
 }
 
-indifferent.medium{
-  float:left;
-}
-
 amiable,medium{
   float:right;
+}
+
+indifferent.medium{
+  float:left;
 }
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
