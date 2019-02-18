@@ -54,15 +54,15 @@ img:hover {
 
 /* create your tile classes! we recommend .small .med .large */
 
-.small img {
+.small {
   width: 100%;
   clear:both;
 }
 
-.medium img {
+.medium {
   width: 200%;
 }
 
-.large img {
+.large {
   width:300%;
 }
