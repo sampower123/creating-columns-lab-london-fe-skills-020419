@@ -46,6 +46,29 @@ img:hover {
   background-color: #dd4444;
 }
 
+.dubious .indifferent{
+  float:left;
+}
+
+.dubious .amiable{
+  float:right;
+}
+
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
+.column {
+  display:inline-block;
+}
 
 /* create your tile classes! we recommend .small .med .large */
+
+.small {
+  width: 30%;
+}
+
+.medium {
+  width: 60%;
+}
+
+.large {
+  width:96%;
+}
