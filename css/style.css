@@ -46,9 +46,10 @@ img:hover {
   background-color: #dd4444;
 }
 
-amiable,medium{
+amiable.medium{
   float:right;
 }
+
 
 indifferent.medium{
   float:left;
