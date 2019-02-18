@@ -46,11 +46,11 @@ img:hover {
   background-color: #dd4444;
 }
 
-.dubious .indifferent{
+.dubious.indifferent{
   float:left;
 }
 
-.dubious .amiable{
+.dubious.amiable{
   float:right;
 }
 
